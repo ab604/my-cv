@@ -1,0 +1,98 @@
+---
+output: 
+  pdf_document:
+    latex_engine: pdflatex
+    template: latex-cv-nobullets.tex
+geometry: margin=1in
+
+title: "Curriculum Vitae"
+author: Alistair Bailey
+
+jobtitle: "Research Fellow in Immunoproteomics"
+address: "Building 85, Life Sciences, University of Southampton, Southampton, SO17 1BJ, UK"
+fontawesome: yes
+email: ab604@soton.ac.uk
+github: ab604
+twitter: alistair604
+google-scholar: scholar.google.co.uk/citations?user=Xq7lwXEAAAAJ&hl=en
+orcid: 0000-0003-0023-8679
+# phone: "+353 1 408 4800"
+web: ab604.uk
+updated: yes
+
+keywords: R Markdown, academic CV, template
+
+fontfamily: opensans
+fontfamilyoptions: default,osfigures,scale=0.95
+fontsize: 11pt
+linkcolor: blue
+urlcolor: blue
+---
+
+# QUALIFICATIONS
+
++ PhD (Cancer Science Unit), \hfill University of Southampton
++ BEng with First Class Honours in Civil Engineering, \hfill University of Southampton
++ Engineering, Science and Mathematics Foundation Year, \hfill University of Southampton
++ Data Science Specialization, \hfill John Hopkins University Coursera
++ Mathematics MU120 and MST121, \hfill Open University
++ BTEC ND Audio-Visual Production, \hfill Bournemouth & Poole College of Art & Design
+
+
+# EMPLOYMENT
+
++ Research Fellow, University of Southampton  \hfill January 2013 to present 
++ Internship, Microsoft Research, Cambridge \hfill March 2012 to June 2012
++ Freelance Satellite Communications Engineer \hfill October 2004 to September 2012 
++ Satellite Master Control Room Engineer, Globecast \hfill March 2001 to October 2004
++ Master Control Room Engineer, Telecine \hfill May 1995 to November 1999
++ Sound Recordist, Wrightstuff Productions \hfill July 1994 to September 1994
+
+# EXPERIENCE
+
++ I am a scientist with a background in engineering. My current project aims to 
+understand the role of class I MHC molecules of the immune system in skin 
+sensitisation to chemical allergens. I also contribute to research into 
+human cancer and contagious cancer in the Tasmanian Devil, and I am a [Data and 
+Software Carpentry](https://carpentries.org/) instructor.
+
++ My experimental workflow involves cell culture and immunopeptidomics mass 
+spectrometry. I also have experience with hydrogen/deuterium exchange mass 
+spectrometry, fluorescent spectroscopy of kinetic measurements and 
+molecular dynamics simulations.
+
++ My computational skills are primarily in the use of statistical programming
+language R in conjunction with git version control and bash for data analysis 
+and bioinformatics. I also have experience using latex, MATLAB, python and SQL and
+proteomics software Peaks and MaxQuant. 
+
++ Prior to becoming a full-time scientist, I spent 17 years in the television 
+industry working in as an engineer in satellite communications and control room 
+operations up until 2012. Projects I worked on during that time include the London 2012 Olympics,
+the 2011 Royal Wedding, Premiership and Champions League Football, Wimbledon and the Rugby
+World Cup.
+
+\clearpage
+
+# PUBLICATIONS
+
++ *Direct evidence for conformational dynamics in major histocompatibility complex class I molecules.*
+A. van Hateren, M. Anderson, **A. Bailey**, J. M. Werner, P. Skipp, T. Elliott. Journal of Biological
+Chemistry, 2017. DOI: [10.1074/jbc.M117.809624](https://doi.org/10.1074/jbc.M117.809624)
++ *Recent advances in Major Histocompatibility Complex class I antigen presentation: Plastic MHC
+molecules and TAPBPR-mediated quality control.* \newline A. van Hateren, **A. Bailey**, T. Elliott. F1000 Research, 2017.  DOI: [10.12688/f1000research.10474.1](https://doi.org/10.12688/f1000research.10474.1)
++ *Selector function of MHC I molecules is determined by protein plasticity*.\newline \textbf{A. Bailey}, N. Dalchau, R.
+Carter, S. Emmott, A. Phillips, J.M. Werner and T. Elliott Scientific Reports, 2015. DOI: [10.1038/srep14928](http://dx.doi.org/10.1038/srep14928)
++ *Plasticity of empty major histocompatibility complex class I molecules determines peptide-selector
+function*. \newline A. van Hateren, **A. Bailey**, J.M. Werner, T. Elliott Molecular immunology, 2015
++ *Two polymorphisms facilitate differences in plasticity between two chicken major histocompatibility
+complex class I proteins*. \newline \textbf{A. Bailey}, A. van Hateren, T. Elliott, J.M. Werner - PloS one, 2014. DOI: [10.1371/journal.pone.0089657](https://doi.org/10.1371/journal.pone.0089657)
++ *A mechanistic basis for the co-evolution of chicken tapasin and major histocompatibility complex
+class I (MHC I) proteins*. \newline A. van Hateren, R. Carter, **A. Bailey**, N. Kontouli, Williams, A. P. Kaufman, J.
+Elliott, T. Journal of Biological Chemistry, 2013. DOI: [10.1074/jbc.M113.474031](https://doi.org/10.1074/jbc.m113.474031)
++ *The cell biology of major histocompatibility complex class I assembly: towards a molecular understanding*. 
+A. Van Hateren, E. James, **A. Bailey**, A. Phillips, Dalchau, N. Elliott, T. Tissue antigens, 2010. DOI: [10.1111/j.1399-0039.2010.01550.x](https://doi.org/10.1111/j.1399-0039.2010.01550.x)
+
+# REFEREES
+
++ Available on request
